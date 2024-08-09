@@ -1,0 +1,6 @@
+/* Add styles in App.css or using styled-components */
+.slider {
+    display: flex;
+    gap: 10px;
+  }
+  
